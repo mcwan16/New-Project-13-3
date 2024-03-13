@@ -1,0 +1,3 @@
+Git is a free, open-source distributed version control system tool designed to handle small to very large projects with speed and efficiency. It has steadily grown from just being a preferred skill to a must-have skill for multiple job roles today. Git has become an essential part of our everyday development process.
+
+In this Git commands tutorial, let’s talk about the top 18 Git commands that are useful for working with Git.
